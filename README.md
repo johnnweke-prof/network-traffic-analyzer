@@ -1,5 +1,17 @@
 # Network Traffic Analyzer with Security Alerts
 
+## TO RUN LOCALLY: 
+- ** Ensure you have the Following installed:
+- `python`
+- `libpcap`
+- `tcpdump` 
+- `scapy` (python module)
+- `tkinter` (python gui)
+
+### What it should look Like:
+
+##[IMAGE]
+
 ## Introduction
 
 - **University:** Towson University  
@@ -26,7 +38,7 @@ This project focuses on creating a **network traffic analyzer** that monitors an
 
 - **tcpdump** for packet capture (also using Wireshark).  
 - **Python** (or **C**) for developing the analyzer and alert system.  
-- **Linux** (preferred) or **Windows** OS for system-level packet capture.  
+- **Linux** (preferred) or **Mac** OS for system-level packet capture.  
 
 ### Libraries/Tools
 
@@ -54,7 +66,7 @@ This project focuses on creating a **network traffic analyzer** that monitors an
 
 ## Unusual Network Activities Indicating Cyber Incidents or Attacks
 
-These activities, including potential zero-day attacks, will be addressed by the program:
+These activities below, including potential zero-day attacks, will be addressed by the program:
 
 - **Unusual Spike in Traffic:** Sudden increase in inbound or outbound traffic without a legitimate cause.  
 - **Unusual Port Scanning Activity:** Multiple probes on different ports from the same source IP.  
