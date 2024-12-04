@@ -52,11 +52,12 @@ This project focuses on creating a **network traffic analyzer** that monitors an
 - Linux **man pages** for networking commands and packet capture utilities.  
 - Tutorials on using **Scapy** and **libpcap** for traffic analysis.  
 
-## Expected Deliverables
+## Deliverable/MVP
 
 - A functioning **network traffic analyzer** capable of monitoring and analyzing traffic.  
 - **Security alerts** triggered by abnormal or suspicious network activity.  
-- A **log file system** for recording flagged traffic.  
+- A **log file system** for recording flagged traffic.
+- A GUI to start and stop the traffic analyzer.
 
 ## Relevant Concept Areas
 
