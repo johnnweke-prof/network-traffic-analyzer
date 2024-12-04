@@ -10,8 +10,8 @@
 
 ### What it should look Like:
 
-![Network Traffic Analyzer](https://ibb.co/H2Q0XQg "Network Traffic Analyzer 1")
-![Network Traffic Analyzer](https://ibb.co/tLSCFbd "Network Traffic Analyzer 2")
+![Network Traffic Analyzer](https://i.ibb.co/8BVJXV8/Screen-Shot-2024-12-03-at-10-30-40-PM.png "Network Traffic Analyzer 1")
+![Network Traffic Analyzer]([https://ibb.co/tLSCFbd](https://i.ibb.co/2ZwKHjb/Screen-Shot-2024-12-03-at-10-30-53-PM.png) "Network Traffic Analyzer 2")
 
 
 #### See it in Action: https://somup.com/cZlfeUJLJF
